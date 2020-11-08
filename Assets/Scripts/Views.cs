@@ -22,6 +22,7 @@ public class Views : MonoBehaviour
     public TMP_InputField rpcpassword;
     public LoginData data;
     public string url;
+    
     //[Header("JSON RPC")]
     //private JSON_RPC rPC;
     void ActivePanel(string panelToBeActivated)
